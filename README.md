@@ -21,6 +21,10 @@ Bienvenue sur CY-SPORT, votre plateforme dédiée à la recherche de partenaires
 
 - **Abonnements Payants** : Accédez à des fonctionnalités premium avec nos abonnements payants, incluant des options avancées de recherche, des outils de suivi de performance, et bien plus.
 
+##  installation :
+
+
+Afin d’utiliser le programme , il faut lancer le terminal depuis linux, puis aller sur le dossier ou se trouve le programme que vous aurez préalablement téléchargé. Tappez la commande « php -S localhost:8000/accueil.html », Puis rentrez sur votre navigateur de recherche le lien donner par le terminal.
 
 ## Auteur
 

@@ -24,7 +24,7 @@ Bienvenue sur CY-SPORT, votre plateforme dédiée à la recherche de partenaires
 ##  installation :
 
 
-Afin d’utiliser le programme , il faut lancer le terminal depuis linux, puis aller sur le dossier ou se trouve le programme que vous aurez préalablement téléchargé. Tappez la commande « php -S localhost:8000/accueil.html », Puis rentrez sur votre navigateur de recherche le lien donner par le terminal.
+Afin d’utiliser le programme, allez sur le lien Github «  https://github.com/Romyy78/Cy- » et télécharger le dossier cysport. il faut lancer le terminal depuis Linux, puis aller sur le dossier ou se trouve le programme que vous aurez préalablement téléchargé. Tapez la commande « Php -S local host :8000/accueil.html », Puis rentrez sur votre navigateur de recherche le lien donner par le terminal.
 
 ## Auteur
 

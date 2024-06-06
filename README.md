@@ -25,9 +25,6 @@ Bienvenue sur CY-SPORT, votre plateforme dédiée à la recherche de partenaires
   
 - **Voter sur le Profil d'un Utilisateur** : Pour aider la communauté à identifier les meilleurs partenaires d'entraînement, vous pouvez voter sur le profil des autres utilisateurs. Donnez des évaluations basées sur votre expérience et contribuez à la réputation des membres. Ce système de vote permet de mettre en avant les utilisateurs fiables et motivés, créant ainsi un environnement de confiance et de soutien mutuel au sein de CY-SPORT.
 
-## Fonctionnalités qui ne sont pas présentes :
-- le filtrage par la barre de recherche du site.
-- un  menu présent sur toutes les pages
 
 ##  Installation :
 

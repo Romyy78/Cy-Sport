@@ -20,6 +20,10 @@ Bienvenue sur CY-SPORT, votre plateforme dédiée à la recherche de partenaires
 
 
 - **Abonnements Payants** : Accédez à des fonctionnalités premium avec nos abonnements payants, incluant des options avancées de recherche, des outils de suivi de performance, et bien plus.
+  
+- **Bloquer un Utilisateur** : Pour garantir une expérience sécurisée et agréable sur CY-SPORT, nous vous offrons la possibilité de bloquer des utilisateurs indésirables. Si vous rencontrez des comportements inappropriés ou des interactions non souhaitées, vous pouvez facilement bloquer ces utilisateurs. Une fois bloqués, ils ne pourront plus vous contacter ni voir votre profil. Cette fonctionnalité assure une utilisation sereine et respectueuse de notre plateforme.
+  
+- **Voter sur le Profil d'un Utilisateur** : Pour aider la communauté à identifier les meilleurs partenaires d'entraînement, vous pouvez voter sur le profil des autres utilisateurs. Donnez des évaluations basées sur votre expérience et contribuez à la réputation des membres. Ce système de vote permet de mettre en avant les utilisateurs fiables et motivés, créant ainsi un environnement de confiance et de soutien mutuel au sein de CY-SPORT.
 
 ##  installation :
 
